@@ -3,6 +3,16 @@ entries:
   job-backup-db:
   - apiVersion: v2
     appVersion: 0.2.0
+    created: "2024-01-19T10:44:39.900357637Z"
+    description: Job to backup databases
+    digest: 9dbaec4add2ca7d93259780663b5bc9ab637271b0b0527ccd7b3389f6c396a45
+    name: job-backup-db
+    type: application
+    urls:
+    - https://github.com/PhilippeVienne/job-backup-db/releases/download/job-backup-db-0.2.0/job-backup-db-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.2.0
     created: "2024-01-19T10:24:37.850474553Z"
     description: Job to backup databases
     digest: c93cbb7945e9706f6e58048a08a33e810fa920dc036d5454b5fa68dd80418121
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/PhilippeVienne/job-backup-db/releases/download/job-backup-db-0.1.1/job-backup-db-0.1.1.tgz
     version: 0.1.1
-generated: "2024-01-19T10:24:37.850484171Z"
+generated: "2024-01-19T10:44:39.900370992Z"
